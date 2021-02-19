@@ -1,0 +1,2 @@
+com/example/pushnotificationsfirebase/BuildConfig.java
+ com.example.pushnotificationsfirebase.BuildConfig
